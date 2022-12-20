@@ -4,3 +4,5 @@ Here, we will upload different projects related to data analysis. It includes th
 Project 1: Weather dataset analysis using python
 
 Project 2: Cars dataset analysis using python
+
+Stay tuned for more interesting projects...
